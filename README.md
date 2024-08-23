@@ -10,7 +10,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,materialui,vite,postgres,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,materialui,vite,postgres,aws,docker,kubernetes)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
