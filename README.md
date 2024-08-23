@@ -24,7 +24,7 @@ I am a passionate Software Developer, driven by a curiosity for technology.
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://linkedin.com/cv116)
+- Connect with me on [LinkedIn](https://linkedin.com/in/cv116)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
